@@ -2,7 +2,9 @@
 ## Fall 2010 (Intro to Computing)
 ## Made by: Maitreyee Palkar ; mpalkar
 ## 15-110 Section H
-#############################################
+###############################################
+## This code can't be copied or used by anyone
+###############################################
 
 from Tkinter import *
 import base64
