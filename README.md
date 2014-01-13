@@ -10,6 +10,12 @@ Features:
 -Can undo all actions since start of program
 -Can save and reload image
 -Eraser usage possible
+-Insert picture into file
 
 Images created via this program can't be viewed elsewhere.
 Shapes can't be resized and their colors can't be changed.
+
+A image.gif file is included for testing purposes.
+A savedImage.txt file will be created upon saving.
+
+Further instructions are found when running the program.
